@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/kyle/C# Player's Guide/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/kyle/C# Player's Guide/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/kyle/C# Player's Guide/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/kyle/C# Player's Guide/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/kyle/C# Player's Guide/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
