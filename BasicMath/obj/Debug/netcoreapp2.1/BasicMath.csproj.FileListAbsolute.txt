@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/BasicMath/bin/Debug/netcoreapp2.1/BasicMath.deps.json
+/Users/kyle/C# Player's Guide/BasicMath/bin/Debug/netcoreapp2.1/BasicMath.runtimeconfig.json
+/Users/kyle/C# Player's Guide/BasicMath/bin/Debug/netcoreapp2.1/BasicMath.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/BasicMath/bin/Debug/netcoreapp2.1/BasicMath.dll
+/Users/kyle/C# Player's Guide/BasicMath/bin/Debug/netcoreapp2.1/BasicMath.pdb
+/Users/kyle/C# Player's Guide/BasicMath/obj/Debug/netcoreapp2.1/BasicMath.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/BasicMath/obj/Debug/netcoreapp2.1/BasicMath.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/BasicMath/obj/Debug/netcoreapp2.1/BasicMath.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/BasicMath/obj/Debug/netcoreapp2.1/BasicMath.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/BasicMath/obj/Debug/netcoreapp2.1/BasicMath.dll
+/Users/kyle/C# Player's Guide/BasicMath/obj/Debug/netcoreapp2.1/BasicMath.pdb
