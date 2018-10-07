@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/Variables/bin/Debug/netcoreapp2.1/Variables.deps.json
+/Users/kyle/C# Player's Guide/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.json
+/Users/kyle/C# Player's Guide/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/Variables/bin/Debug/netcoreapp2.1/Variables.dll
+/Users/kyle/C# Player's Guide/Variables/bin/Debug/netcoreapp2.1/Variables.pdb
+/Users/kyle/C# Player's Guide/Variables/obj/Debug/netcoreapp2.1/Variables.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/Variables/obj/Debug/netcoreapp2.1/Variables.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/Variables/obj/Debug/netcoreapp2.1/Variables.dll
+/Users/kyle/C# Player's Guide/Variables/obj/Debug/netcoreapp2.1/Variables.pdb
