@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/CylinderCalculator/obj/Debug/netcoreapp2.1/CylinderCalculator.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/CylinderCalculator/obj/Debug/netcoreapp2.1/CylinderCalculator.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/CylinderCalculator/obj/Debug/netcoreapp2.1/CylinderCalculator.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/CylinderCalculator/obj/Debug/netcoreapp2.1/CylinderCalculator.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/CylinderCalculator/bin/Debug/netcoreapp2.1/CylinderCalculator.deps.json
+/Users/kyle/C# Player's Guide/CylinderCalculator/bin/Debug/netcoreapp2.1/CylinderCalculator.runtimeconfig.json
+/Users/kyle/C# Player's Guide/CylinderCalculator/bin/Debug/netcoreapp2.1/CylinderCalculator.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/CylinderCalculator/bin/Debug/netcoreapp2.1/CylinderCalculator.dll
+/Users/kyle/C# Player's Guide/CylinderCalculator/bin/Debug/netcoreapp2.1/CylinderCalculator.pdb
+/Users/kyle/C# Player's Guide/CylinderCalculator/obj/Debug/netcoreapp2.1/CylinderCalculator.dll
+/Users/kyle/C# Player's Guide/CylinderCalculator/obj/Debug/netcoreapp2.1/CylinderCalculator.pdb
