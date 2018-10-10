@@ -1,4 +1,4 @@
-# C# Players Guide Examples
+# The C# Players Guide Personal Workbook
 C# code I created while working through *The C# Players Guide* (RB Whitaker)
 
 ### Files
