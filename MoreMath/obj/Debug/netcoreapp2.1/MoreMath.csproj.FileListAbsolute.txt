@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/MoreMath/obj/Debug/netcoreapp2.1/MoreMath.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/MoreMath/obj/Debug/netcoreapp2.1/MoreMath.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/MoreMath/obj/Debug/netcoreapp2.1/MoreMath.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/MoreMath/obj/Debug/netcoreapp2.1/MoreMath.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/MoreMath/bin/Debug/netcoreapp2.1/MoreMath.deps.json
+/Users/kyle/C# Player's Guide/MoreMath/bin/Debug/netcoreapp2.1/MoreMath.runtimeconfig.json
+/Users/kyle/C# Player's Guide/MoreMath/bin/Debug/netcoreapp2.1/MoreMath.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/MoreMath/bin/Debug/netcoreapp2.1/MoreMath.dll
+/Users/kyle/C# Player's Guide/MoreMath/bin/Debug/netcoreapp2.1/MoreMath.pdb
+/Users/kyle/C# Player's Guide/MoreMath/obj/Debug/netcoreapp2.1/MoreMath.dll
+/Users/kyle/C# Player's Guide/MoreMath/obj/Debug/netcoreapp2.1/MoreMath.pdb
