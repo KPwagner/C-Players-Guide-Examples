@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/DecisionMaking/bin/Debug/netcoreapp2.1/DecisionMaking.deps.json
+/Users/kyle/C# Player's Guide/DecisionMaking/bin/Debug/netcoreapp2.1/DecisionMaking.runtimeconfig.json
+/Users/kyle/C# Player's Guide/DecisionMaking/bin/Debug/netcoreapp2.1/DecisionMaking.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/DecisionMaking/bin/Debug/netcoreapp2.1/DecisionMaking.dll
+/Users/kyle/C# Player's Guide/DecisionMaking/bin/Debug/netcoreapp2.1/DecisionMaking.pdb
+/Users/kyle/C# Player's Guide/DecisionMaking/obj/Debug/netcoreapp2.1/DecisionMaking.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/DecisionMaking/obj/Debug/netcoreapp2.1/DecisionMaking.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/DecisionMaking/obj/Debug/netcoreapp2.1/DecisionMaking.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/DecisionMaking/obj/Debug/netcoreapp2.1/DecisionMaking.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/DecisionMaking/obj/Debug/netcoreapp2.1/DecisionMaking.dll
+/Users/kyle/C# Player's Guide/DecisionMaking/obj/Debug/netcoreapp2.1/DecisionMaking.pdb
