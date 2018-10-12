@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/Loops/bin/Debug/netcoreapp2.1/Loops.deps.json
+/Users/kyle/C# Player's Guide/Loops/bin/Debug/netcoreapp2.1/Loops.runtimeconfig.json
+/Users/kyle/C# Player's Guide/Loops/bin/Debug/netcoreapp2.1/Loops.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/Loops/bin/Debug/netcoreapp2.1/Loops.dll
+/Users/kyle/C# Player's Guide/Loops/bin/Debug/netcoreapp2.1/Loops.pdb
+/Users/kyle/C# Player's Guide/Loops/obj/Debug/netcoreapp2.1/Loops.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/Loops/obj/Debug/netcoreapp2.1/Loops.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/Loops/obj/Debug/netcoreapp2.1/Loops.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/Loops/obj/Debug/netcoreapp2.1/Loops.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/Loops/obj/Debug/netcoreapp2.1/Loops.dll
+/Users/kyle/C# Player's Guide/Loops/obj/Debug/netcoreapp2.1/Loops.pdb
