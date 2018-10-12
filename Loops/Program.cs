@@ -20,10 +20,10 @@ namespace Loops
                 *********
             */
             // Outermost for loop to iterate over the rows
-            for (int row = 0; row < 5; row++)
+            for (int row = 1; row < 6; row++)
             {
                 // Prints spaces before the * character(s)
-                for (int spaces = 0; spaces < 4 - row; spaces++)
+                for (int spaces = 0; spaces < 5 - row; spaces++)
                 {
                     Console.Write(" ");
                 }
@@ -33,6 +33,8 @@ namespace Loops
                 {
                     Console.Write("*");
                 }
+
+                // Starts new line
                 Console.WriteLine();
             }
 
