@@ -20,16 +20,16 @@ namespace Loops
                 *********
             */
             // Outermost for loop to iterate over the rows
-            for (int row = 1; row < 6; row++)
+            for (int row = 0; row < 5; row++)
             {
                 // Prints spaces before the * character(s)
-                for (int spaces = 0; spaces < 5 - row; spaces++)
+                for (int spaces = 4; spaces - row > 0; spaces--)
                 {
                     Console.Write(" ");
                 }
 
-                // Prints a fixed number of * characters
-                for (int column = 0; column < 2 * row - 1 ; column++)
+                // Prints an increasing number of * characters with each iteration of the row for loop
+                for (int star = 1; star + row * 2 > 0 ; star--)
                 {
                     Console.Write("*");
                 }
