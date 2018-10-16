@@ -39,6 +39,30 @@ namespace Arrays
                 Console.Write($"{secondArray[index]} ");
             }
 
+            // 2. Using foreach to find the total and average of an array's values
+
+            // Declares sumArray with integer values
+            int[] sumArray = new int[] { 20, 25, 30, 50, 55, 60, 100, 200 };
+
+            // The variable total will be used to update the sum of the array
+            int total = 0;
+
+            foreach (int num in sumArray) 
+            {
+                total += num;
+            }
+
+            // Calculates the average of the values
+            float average = (float)total / sumArray.Length;
+
+            // Prints the values, sum, and average
+            Console.Write("\n\n\nValues from sumArray are: ");
+            foreach (int num in sumArray)
+            {
+                Console.Write($"{num} ");
+            }
+
+            Console.WriteLine($"\nThe sum of values in sumArray are {total}. The average of values in sumArray is {average}.");
         }
     }
 }
