@@ -10,5 +10,5 @@ C# code I created while working through *The C# Players Guide* (RB Whitaker)
 6. [Decision Making (Chapter 10)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/DecisionMaking): if, else, and else if statements; relational operators, the ! operator, conditional (and/or) operators(&&/||), ternary operator (?). Relevant code: [DecisionMaking/Program.cs](../master/DecisionMaking/Program.cs)
 7. [Switch Statements (Chapter 11)](http://github.com/KPwagner/C-Players-Guide-Examples/tree/master/SimpleCalculator): switch statement format, required break. Relevant code: [SimpleCalculator/Program.cs](../master/SimpleCalculator/Program.cs)
 8. [Loops (Chapter 12)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Loops): while, do-while, for, break, continue, nesting. Relevant Code: [Loops/Program.cs](../master/Loops/Program.cs)
-9. [(Arrays (Chapter 13)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Arrays): creating arrays, array length, foreach loop. Relevant Code: [Arrays/Program.cs](../master/Arrays/Program.cs)
-
+9. [Arrays (Chapter 13)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Arrays): creating arrays, array length, foreach loop. Relevant Code: [Arrays/Program.cs](../master/Arrays/Program.cs)
+10. [Enumerations (Chapter 14)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Enumerations): creating enumerations, assigning numbers to enumeration values, necessity of casting. Relevant Code: [Enumerations/Program.cs](../master/Enumerations/Program.cs)
