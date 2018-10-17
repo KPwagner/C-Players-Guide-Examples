@@ -13,6 +13,4 @@ C# code I created while working through *The C# Players Guide* (RB Whitaker)
 9. [Arrays (Chapter 13)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Arrays): creating arrays, array length, foreach loop. Relevant Code: [Arrays/Program.cs](../master/Arrays/Program.cs)
 <<<<<<< HEAD
 10. [Enumerations (Chapter 14)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Enumerations): creating enumerations, assigning numbers to enumeration values, necessity of casting. Relevant Code: [Enumerations/Program.cs](../master/Enumerations/Program.cs)
-=======
 
->>>>>>> 7ede1c2ade9493de394e8142ab676acaed6af99e
