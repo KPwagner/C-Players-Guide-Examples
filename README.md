@@ -12,4 +12,4 @@ C# code I created while working through *The C# Players Guide* (RB Whitaker)
 8. [Loops (Chapter 12)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Loops): while, do-while, for, break, continue, nesting. Relevant Code: [Loops/Program.cs](../master/Loops/Program.cs)
 9. [Arrays (Chapter 13)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Arrays): creating arrays, array length, foreach loop. Relevant Code: [Arrays/Program.cs](../master/Arrays/Program.cs)
 10. [Enumerations (Chapter 14)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Enumerations): creating enumerations, assigning numbers to enumeration values, necessity of casting. Relevant Code: [Enumerations/Program.cs](../master/Enumerations/Program.cs)
-
+11. [Methods (Chapter 15)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Methods): creating and calling methods, passing parameters, returning. Relevant Code: [Methods/Program.cs](../master/Methods/Program.cs)
