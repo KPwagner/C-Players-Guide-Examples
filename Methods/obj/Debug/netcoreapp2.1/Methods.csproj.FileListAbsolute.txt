@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/Methods/obj/Debug/netcoreapp2.1/Methods.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/Methods/obj/Debug/netcoreapp2.1/Methods.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/Methods/obj/Debug/netcoreapp2.1/Methods.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/Methods/obj/Debug/netcoreapp2.1/Methods.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/Methods/bin/Debug/netcoreapp2.1/Methods.deps.json
+/Users/kyle/C# Player's Guide/Methods/bin/Debug/netcoreapp2.1/Methods.runtimeconfig.json
+/Users/kyle/C# Player's Guide/Methods/bin/Debug/netcoreapp2.1/Methods.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/Methods/bin/Debug/netcoreapp2.1/Methods.dll
+/Users/kyle/C# Player's Guide/Methods/bin/Debug/netcoreapp2.1/Methods.pdb
+/Users/kyle/C# Player's Guide/Methods/obj/Debug/netcoreapp2.1/Methods.dll
+/Users/kyle/C# Player's Guide/Methods/obj/Debug/netcoreapp2.1/Methods.pdb
