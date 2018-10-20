@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/ClassesObjects/bin/Debug/netcoreapp2.1/ClassesObjects.deps.json
+/Users/kyle/C# Player's Guide/ClassesObjects/bin/Debug/netcoreapp2.1/ClassesObjects.runtimeconfig.json
+/Users/kyle/C# Player's Guide/ClassesObjects/bin/Debug/netcoreapp2.1/ClassesObjects.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/ClassesObjects/bin/Debug/netcoreapp2.1/ClassesObjects.dll
+/Users/kyle/C# Player's Guide/ClassesObjects/bin/Debug/netcoreapp2.1/ClassesObjects.pdb
+/Users/kyle/C# Player's Guide/ClassesObjects/obj/Debug/netcoreapp2.1/ClassesObjects.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/ClassesObjects/obj/Debug/netcoreapp2.1/ClassesObjects.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/ClassesObjects/obj/Debug/netcoreapp2.1/ClassesObjects.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/ClassesObjects/obj/Debug/netcoreapp2.1/ClassesObjects.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/ClassesObjects/obj/Debug/netcoreapp2.1/ClassesObjects.dll
+/Users/kyle/C# Player's Guide/ClassesObjects/obj/Debug/netcoreapp2.1/ClassesObjects.pdb
