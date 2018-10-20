@@ -13,3 +13,5 @@ C# code I created while working through *The C# Players Guide* (RB Whitaker)
 9. [Arrays (Chapter 13)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Arrays): creating arrays, array length, foreach loop. Relevant Code: [Arrays/Program.cs](../master/Arrays/Program.cs)
 10. [Enumerations (Chapter 14)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Enumerations): creating enumerations, assigning numbers to enumeration values, necessity of casting. Relevant Code: [Enumerations/Program.cs](../master/Enumerations/Program.cs)
 11. [Methods (Chapter 15)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/Methods): creating and calling methods, passing parameters, returning, overloading, XML documentation, recursion. Relevant Code: [Methods/Program.cs](../master/Methods/Program.cs)
+### Object-Oriented Programming
+12. [Classes and Objects (Chapter 16)](https://github.com/KPwagner/C-Players-Guide-Examples/tree/master/ClassesObjects): Relevant Code: [ClassesObjects/Program.cs](../master/ClassesObjects/Program.cs)
