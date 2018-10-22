@@ -1,0 +1,11 @@
+/Users/kyle/C# Player's Guide/MakingClasses/obj/Debug/netcoreapp2.1/MakingClasses.csprojAssemblyReference.cache
+/Users/kyle/C# Player's Guide/MakingClasses/obj/Debug/netcoreapp2.1/MakingClasses.csproj.CoreCompileInputs.cache
+/Users/kyle/C# Player's Guide/MakingClasses/obj/Debug/netcoreapp2.1/MakingClasses.AssemblyInfoInputs.cache
+/Users/kyle/C# Player's Guide/MakingClasses/obj/Debug/netcoreapp2.1/MakingClasses.AssemblyInfo.cs
+/Users/kyle/C# Player's Guide/MakingClasses/bin/Debug/netcoreapp2.1/MakingClasses.deps.json
+/Users/kyle/C# Player's Guide/MakingClasses/bin/Debug/netcoreapp2.1/MakingClasses.runtimeconfig.json
+/Users/kyle/C# Player's Guide/MakingClasses/bin/Debug/netcoreapp2.1/MakingClasses.runtimeconfig.dev.json
+/Users/kyle/C# Player's Guide/MakingClasses/bin/Debug/netcoreapp2.1/MakingClasses.dll
+/Users/kyle/C# Player's Guide/MakingClasses/bin/Debug/netcoreapp2.1/MakingClasses.pdb
+/Users/kyle/C# Player's Guide/MakingClasses/obj/Debug/netcoreapp2.1/MakingClasses.dll
+/Users/kyle/C# Player's Guide/MakingClasses/obj/Debug/netcoreapp2.1/MakingClasses.pdb
