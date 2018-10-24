@@ -1,8 +1,14 @@
-﻿using System;
+﻿/*
+    This program was created by Kyle Wagner.
+    Anyone may use all or a part of this code without permission.
+*/
+
+using System;
 namespace MakingClasses
 {
     public class Ball
     {
+        // sets up the Ball class variables
         private int size;
         private Color color;
         private int numThrows;

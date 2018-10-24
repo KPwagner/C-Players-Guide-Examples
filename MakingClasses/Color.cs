@@ -1,8 +1,14 @@
-﻿using System;
+﻿/*
+    This program was created by Kyle Wagner.
+    Anyone may use all or a part of this code without permission.
+*/
+
+using System;
 namespace MakingClasses
 {
     public class Color
     {
+        // Sets up the Color class variables
         private ushort red;
         private ushort green;
         private ushort blue;

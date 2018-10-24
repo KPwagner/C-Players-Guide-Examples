@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+    This program was created by Kyle Wagner.
+    Anyone may use all or a part of this code without permission.
+*/
+
+using System;
 
 namespace MakingClasses
 {
@@ -6,9 +11,9 @@ namespace MakingClasses
     {
         static void Main(string[] args)
         {
-            // Running some code from the Color class
+            // Running some code using the Color class
 
-            // Creating the color purple
+            // Creating the Color purple
             Color purple = new Color(128, 0, 128);
             Console.WriteLine($"The color purple:" +
                               $"\nRED\t\t{purple.GetRed()}" +
@@ -26,9 +31,9 @@ namespace MakingClasses
                               $"\nALPHA\t\t{purple.GetAlpha()}" +
                               $"\nGRAYSCALE\t{purple.GetGrayscale()}");
 
-            // Running some code from the Ball class
+            // Running some code using the Ball class
 
-            // Creating a ball object
+            // Creating a Ball object
             Ball purpleBall = new Ball(14, purple);
             Console.WriteLine($"\n\nThe ball purpleBall looks like this:" +
                               $"\nSIZE\t\t{purpleBall.GetSize()}" +
@@ -58,6 +63,17 @@ namespace MakingClasses
             Console.WriteLine($"\nAfter throwing redBall a few times, it looks like this:" +
                               $"\nSIZE\t\t{redBall.GetSize()}" +
                               $"\nTHROWS\t\t{redBall.GetThrows()}");
+
+            // Running some code using the Stapler class
+
+            // Creating a Stapler object
+            Stapler purpleStapler = new Stapler(47, 100, purple);
+
+            // Printing the purpleStapler properties, except color
+            // Not sure how to get the color value (red, green, blue, alpha, and grayscale)
+            Console.WriteLine($"\n\nThe stapler purpleStapler looks like this:" +
+                              $"\nSTAPLE CAPACITY\t{purpleStapler.StapleCapacity}" +
+                              $"\nSTAPLES\t\t{purpleStapler.Staples}");
         }
     }
 }
